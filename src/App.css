@@ -1,0 +1,46 @@
+.wrapper{
+    height: 100vh;
+    width: 100vw;
+    background-color: rgb(71, 71, 139);
+    font-size: 30px;
+    text-align: center;
+}
+.first{
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    border-radius: 10px;
+    gap: 20px;
+    background-color: rgb(48, 59, 56);
+    height: 240px;
+    width: 400px;
+    margin: 30px;
+    color: rgb(211, 129, 141);
+}
+.third{
+    display: flex;
+    margin:50px;
+    gap: 100px;
+    border-radius: 100px;
+    object-fit: cover;
+
+
+}
+.btn1{
+    border-radius: 20px;
+    padding: 10px;
+    cursor: pointer;
+}
+.btn2{
+    border-radius: 20px;
+    padding: 10px;
+    cursor: pointer;
+
+}
+.resetbtn{
+    background-color: rgba(0, 0, 255, 0.007);
+    padding: 10px;
+    border-radius: 10px;
+    color: beige;
+    font-size: medium;
+}
